@@ -1,0 +1,29 @@
+#headwrap {
+    border-bottom: 1px dotted black;
+}
+
+header, section, footer {
+    font: 14pt sans-serif;
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+section {
+    margin-top: 3em;
+}
+
+section p {
+    text-align: justify;
+    text-indent: 3em;
+    line-height: 1.6;
+}
+
+footer {
+    margin-top: 4em;
+    text-align: right;
+}
+
+header p, footer, footer a {
+    color: grey;
+    font-size: 12pt;
+}
